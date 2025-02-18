@@ -1,0 +1,22 @@
+{
+  "name": "favour",
+  "version": "1.0.0",
+  "description": "My first backend project learning apis from freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoloniaKali/API.git"
+  },
+  "author": "favour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoloniaKali/API/issues"
+  },
+  "homepage": "https://github.com/MoloniaKali/API#readme",
+  "keywords": [
+    "\"john\""
+  ]
+}
